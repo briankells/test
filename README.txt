@@ -1,3 +1,4 @@
-test
-
-whoaa look at this
+git init
+git commit -m "message"
+git add -A
+git status
